@@ -1,0 +1,8 @@
+{
+  "name": "FixBack",
+  "description": "Sri Lanka's subscription-based repair, preventive maintenance, guaranteed buy-back, and certified refurbishment platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

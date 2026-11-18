@@ -1,0 +1,934 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2378" height="8566" viewBox="0 0 2378 8566">
+<rect width="100%" height="100%" fill="#f2f2f2"/>
+<text x="70" y="45" font-family="Arial" font-size="28" font-weight="700" fill="#333">FIXBACK — LOW-FIDELITY MOBILE APP WIREFRAMES</text>
+<text x="70" y="66" font-family="Arial" font-size="14" fill="#666">Editable SVG • Import into Figma • 40 screens • grayscale wireframe</text>
+<g transform="translate(70,120)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">01. Splash</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Splash</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">FixBack</text>
+<rect x="24" y="124" width="342" height="102" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="179.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[FixBack]</text>
+<text x="24" y="252" font-family="Arial" font-size="12" fill="#777">Keep it working.</text>
+<text x="24" y="287" font-family="Arial" font-size="12" fill="#777">Repair • Maintain • Renew</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(532,120)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">02. Onboarding 01</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Onboarding 01</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Reliable repairs, made simple</text>
+<rect x="24" y="124" width="342" height="202" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="229.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Illustration placeholder]</text>
+<text x="24" y="352" font-family="Arial" font-size="12" fill="#777">Book trusted repairs in a few taps.</text>
+<text x="24" y="407" font-family="Arial" font-size="12" fill="#777">01  •  02  •  03</text>
+<rect x="24" y="414" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="440.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Continue</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(994,120)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">03. Onboarding 02</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Onboarding 02</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Keep every asset in good shape</text>
+<rect x="24" y="124" width="342" height="202" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="229.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Asset / maintenance illustration]</text>
+<text x="24" y="352" font-family="Arial" font-size="12" fill="#777">Track service history and upcoming maintenance.</text>
+<text x="24" y="417" font-family="Arial" font-size="12" fill="#777">01  •  02  •  03</text>
+<rect x="24" y="424" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="450.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Continue</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1456,120)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">04. Onboarding 03</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Onboarding 03</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Repair, trade in, reuse</text>
+<rect x="24" y="124" width="342" height="202" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="229.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Circular repair illustration]</text>
+<text x="24" y="352" font-family="Arial" font-size="12" fill="#777">Get fair buy-back valuations and certified refurbished products.</text>
+<text x="24" y="417" font-family="Arial" font-size="12" fill="#777">01  •  02  •  03</text>
+<rect x="24" y="424" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="450.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Get Started</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1918,120)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">05. Login</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Login</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Welcome back</text>
+<rect x="24" y="124" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="153.0" font-family="Arial" font-size="12" fill="#999">Phone number / Email</text>
+<rect x="24" y="182" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="211.0" font-family="Arial" font-size="12" fill="#999">Password</text>
+<rect x="24" y="268" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="294.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Log in</text>
+<text x="24" y="338" font-family="Arial" font-size="12" fill="#777">OR</text>
+<rect x="24" y="344" width="342" height="44" rx="8" fill="#f7f7f7" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="370.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Continue with Google</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(70,1059)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">06. Sign Up</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Sign Up</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Create your FixBack account</text>
+<rect x="24" y="124" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="153.0" font-family="Arial" font-size="12" fill="#999">Full name</text>
+<rect x="24" y="182" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="211.0" font-family="Arial" font-size="12" fill="#999">Phone number</text>
+<rect x="24" y="240" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="269.0" font-family="Arial" font-size="12" fill="#999">Email</text>
+<rect x="24" y="298" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="327.0" font-family="Arial" font-size="12" fill="#999">Password</text>
+<rect x="24" y="356" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="382.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Create account</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(532,1059)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">07. OTP Verification</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">OTP Verification</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Verify your phone number</text>
+<text x="24" y="142" font-family="Arial" font-size="12" fill="#777">Enter the 6-digit code sent to your number.</text>
+<rect x="24" y="174" width="342" height="52" fill="#fff" stroke="#bbb"/>
+<text x="195" y="208.0" text-anchor="middle" font-family="Arial" font-size="22" fill="#888">• • • • • •</text>
+<rect x="24" y="264" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="290.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Verify</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(994,1059)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">08. Forgot Password</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Forgot Password</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Reset your password</text>
+<text x="24" y="142" font-family="Arial" font-size="12" fill="#777">Enter your registered email or phone.</text>
+<rect x="24" y="179" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="208.0" font-family="Arial" font-size="12" fill="#999">Email / Phone</text>
+<rect x="24" y="237" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="263.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Send reset code</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1456,1059)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">09. Home Dashboard</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Home Dashboard</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Good morning, User</text>
+<rect x="24" y="124" width="342" height="37" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="146.5" font-family="Arial" font-size="12" fill="#999">Search services or assets</text>
+<rect x="24" y="169" width="342" height="30" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="189" font-family="Arial" font-size="12" fill="#777">Electronics   Auto   Home</text>
+<rect x="24" y="207" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="227" font-family="Arial" font-size="12" fill="#777">Active plan • Home Plus</text>
+<rect x="38" y="237" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="307" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="327" font-family="Arial" font-size="12" fill="#777">Book a repair | Add asset | Buy-back</text>
+<rect x="38" y="337" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="415" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Upcoming maintenance</text>
+<rect x="24" y="427" width="342" height="77" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="447" font-family="Arial" font-size="12" fill="#777">Asset reminder card</text>
+<rect x="38" y="457" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="530" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Recent activity</text>
+<rect x="24" y="542" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="562" font-family="Arial" font-size="12" fill="#777">Recent service item</text>
+<rect x="38" y="572" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="14" y="622" width="362" height="46" fill="#f4f4f4" stroke="#aaa"/>
+<text x="195" y="649.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#666">Home   Services   Assets   Shop   Profile</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1918,1059)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">10. Services</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Services</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">What do you need help with?</text>
+<rect x="24" y="124" width="342" height="37" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="146.5" font-family="Arial" font-size="12" fill="#999">Search services</text>
+<rect x="24" y="169" width="342" height="74" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="189" font-family="Arial" font-size="12" fill="#777">Electronics &amp; appliances</text>
+<rect x="38" y="199" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="251" width="342" height="74" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="271" font-family="Arial" font-size="12" fill="#777">Vehicle service</text>
+<rect x="38" y="281" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="333" width="342" height="74" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="353" font-family="Arial" font-size="12" fill="#777">Home repair</text>
+<rect x="38" y="363" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="415" width="342" height="74" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="435" font-family="Arial" font-size="12" fill="#777">Mini construction</text>
+<rect x="38" y="445" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="497" width="342" height="74" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="517" font-family="Arial" font-size="12" fill="#777">Diagnostics</text>
+<rect x="38" y="527" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="14" y="579" width="362" height="46" fill="#f4f4f4" stroke="#aaa"/>
+<text x="195" y="606.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#666">Home   Services   Assets   Shop   Profile</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(70,1998)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">11. Plans</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Plans</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Choose your plan</text>
+<rect x="24" y="124" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Home Essential • LKR 1,500/mo</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="224" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="244" font-family="Arial" font-size="12" fill="#777">Home Plus • LKR 3,500/mo</text>
+<rect x="38" y="254" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="324" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="344" font-family="Arial" font-size="12" fill="#777">Auto Care • LKR 2,500/mo</text>
+<rect x="38" y="354" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="424" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="444" font-family="Arial" font-size="12" fill="#777">Business / SME • LKR 12,000/mo</text>
+<rect x="38" y="454" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="524" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="550.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Compare plans</text>
+<rect x="14" y="576" width="362" height="46" fill="#f4f4f4" stroke="#aaa"/>
+<text x="195" y="603.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#666">Home   Services   Assets   Shop   Profile</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(532,1998)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">12. Plan Details</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Plan Details</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Home Plus</text>
+<text x="24" y="142" font-family="Arial" font-size="12" fill="#777">Plan price • LKR 3,500 / month</text>
+<rect x="24" y="169" width="342" height="127" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="189" font-family="Arial" font-size="12" fill="#777">Coverage summary</text>
+<rect x="38" y="199" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="322" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Included benefits</text>
+<rect x="24" y="334" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="354" font-family="Arial" font-size="12" fill="#777">12 assets • 4 visits • priority response</text>
+<rect x="38" y="364" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="452" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Plan terms</text>
+<text x="24" y="482" font-family="Arial" font-size="12" fill="#777">Subscription details and exclusions</text>
+<rect x="24" y="529" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="555.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Subscribe now</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(994,1998)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">13. Checkout</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Checkout</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Confirm subscription</text>
+<rect x="24" y="124" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Selected plan summary</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="224" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="253.0" font-family="Arial" font-size="12" fill="#999">Billing address</text>
+<text x="24" y="300" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Payment method</text>
+<rect x="24" y="312" width="342" height="52" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="332" font-family="Arial" font-size="12" fill="#777">Card / Bank / Wallet</text>
+<rect x="38" y="342" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="390" font-family="Arial" font-size="12" fill="#777">Monthly billing &amp; renewal details</text>
+<rect x="24" y="417" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="443.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Pay and subscribe</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1456,1998)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">14. Payment Success</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Payment Success</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Subscription activated</text>
+<rect x="24" y="124" width="342" height="112" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="184.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Success icon placeholder]</text>
+<text x="24" y="262" font-family="Arial" font-size="12" fill="#777">You are now subscribed!</text>
+<rect x="24" y="299" width="342" height="87" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="319" font-family="Arial" font-size="12" fill="#777">Plan confirmation summary</text>
+<rect x="38" y="329" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="394" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="420.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Go to dashboard</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1918,1998)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">15. My Assets</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">My Assets</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Registered assets</text>
+<rect x="24" y="124" width="342" height="37" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="146.5" font-family="Arial" font-size="12" fill="#999">Search assets</text>
+<rect x="24" y="169" width="342" height="30" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="189" font-family="Arial" font-size="12" fill="#777">All   Appliances   Vehicles</text>
+<rect x="24" y="207" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="227" font-family="Arial" font-size="12" fill="#777">Asset thumbnail • Refrigerator</text>
+<rect x="38" y="237" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="297" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="317" font-family="Arial" font-size="12" fill="#777">Asset thumbnail • Motorcycle</text>
+<rect x="38" y="327" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="387" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="407" font-family="Arial" font-size="12" fill="#777">Asset thumbnail • Laptop</text>
+<rect x="38" y="417" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="477" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="503.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">+ Register new asset</text>
+<rect x="14" y="529" width="362" height="46" fill="#f4f4f4" stroke="#aaa"/>
+<text x="195" y="556.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#666">Home   Services   Assets   Shop   Profile</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(70,2937)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">16. Add Asset</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Add Asset</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Register an asset</text>
+<rect x="24" y="124" width="342" height="47" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="151.5" font-family="Arial" font-size="12" fill="#999">Asset category</text>
+<rect x="24" y="179" width="342" height="47" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="206.5" font-family="Arial" font-size="12" fill="#999">Brand and model</text>
+<rect x="24" y="234" width="342" height="47" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="261.5" font-family="Arial" font-size="12" fill="#999">Serial / registration no.</text>
+<rect x="24" y="289" width="342" height="47" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="316.5" font-family="Arial" font-size="12" fill="#999">Purchase date</text>
+<rect x="24" y="344" width="342" height="47" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="371.5" font-family="Arial" font-size="12" fill="#999">Condition</text>
+<rect x="24" y="399" width="342" height="62" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="419" font-family="Arial" font-size="12" fill="#777">Add asset photos</text>
+<rect x="38" y="429" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="469" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="495.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Save asset</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(532,2937)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">17. Asset Details</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Asset Details</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Refrigerator • Registered</text>
+<rect x="24" y="124" width="342" height="107" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="181.5" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Asset image placeholder]</text>
+<rect x="24" y="239" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="259" font-family="Arial" font-size="12" fill="#777">Asset details</text>
+<rect x="38" y="269" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="347" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Service history</text>
+<rect x="24" y="359" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="379" font-family="Arial" font-size="12" fill="#777">Service history entry</text>
+<rect x="38" y="389" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="457" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Upcoming maintenance</text>
+<rect x="24" y="469" width="342" height="62" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="489" font-family="Arial" font-size="12" fill="#777">Maintenance reminder</text>
+<rect x="38" y="499" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="539" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="565.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Request service</text>
+<rect x="24" y="591" width="342" height="44" rx="8" fill="#f7f7f7" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="617.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Buy back this asset</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(994,2937)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">18. Service History</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Service History</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">All maintenance records</text>
+<rect x="24" y="124" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Service record • date / issue</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="214" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="234" font-family="Arial" font-size="12" fill="#777">Service record • date / issue</text>
+<rect x="38" y="244" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="304" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="324" font-family="Arial" font-size="12" fill="#777">Service record • date / issue</text>
+<rect x="38" y="334" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="394" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="414" font-family="Arial" font-size="12" fill="#777">Service record • date / issue</text>
+<rect x="38" y="424" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1456,2937)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">19. Book Repair 01</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Book Repair 01</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Select service category</text>
+<rect x="24" y="124" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Appliance repair</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="204" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="224" font-family="Arial" font-size="12" fill="#777">Vehicle service</text>
+<rect x="38" y="234" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="284" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="304" font-family="Arial" font-size="12" fill="#777">Electrical / plumbing</text>
+<rect x="38" y="314" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="364" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="384" font-family="Arial" font-size="12" fill="#777">Home repair</text>
+<rect x="38" y="394" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="444" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="464" font-family="Arial" font-size="12" fill="#777">Other</text>
+<rect x="38" y="474" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="524" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="550.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Next</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1918,2937)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">20. Book Repair 02</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Book Repair 02</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Tell us about the issue</text>
+<rect x="24" y="124" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="153.0" font-family="Arial" font-size="12" fill="#999">Select asset</text>
+<rect x="24" y="182" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="211.0" font-family="Arial" font-size="12" fill="#999">Problem category</text>
+<rect x="24" y="240" width="342" height="107" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="260" font-family="Arial" font-size="12" fill="#777">Describe the problem</text>
+<rect x="38" y="270" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="355" width="342" height="77" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="375" font-family="Arial" font-size="12" fill="#777">Upload photos / video</text>
+<rect x="38" y="385" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="440" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="466.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Continue</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(70,3876)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">21. Book Repair 03</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Book Repair 03</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Choose a visit</text>
+<text x="24" y="142" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Preferred date</text>
+<rect x="24" y="154" width="342" height="182" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="249.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Calendar placeholder]</text>
+<text x="24" y="362" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Available time slots</text>
+<rect x="24" y="374" width="342" height="42" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="394" font-family="Arial" font-size="12" fill="#777">Morning   Afternoon   Evening</text>
+<rect x="24" y="424" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="450.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Continue</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(532,3876)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">22. Book Repair 04</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Book Repair 04</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Service location</text>
+<rect x="24" y="124" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Saved address</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="204" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="233.0" font-family="Arial" font-size="12" fill="#999">Add / edit address</text>
+<text x="24" y="280" font-family="Arial" font-size="12" fill="#777">Access instructions (optional)</text>
+<rect x="24" y="292" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="312" font-family="Arial" font-size="12" fill="#777">Notes for technician</text>
+<rect x="38" y="322" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="372" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="398.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Review booking</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(994,3876)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">23. Booking Review</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Booking Review</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Confirm service request</text>
+<rect x="24" y="124" width="342" height="102" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Asset &amp; issue summary</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="234" width="342" height="97" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="254" font-family="Arial" font-size="12" fill="#777">Date / time / address</text>
+<rect x="38" y="264" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="339" width="342" height="77" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="359" font-family="Arial" font-size="12" fill="#777">Estimated fee / plan coverage</text>
+<rect x="38" y="369" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="424" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="450.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Confirm booking</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1456,3876)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">24. Booking Confirmed</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Booking Confirmed</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Request submitted</text>
+<rect x="24" y="124" width="342" height="102" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="179.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Confirmation illustration]</text>
+<text x="24" y="252" font-family="Arial" font-size="12" fill="#777">Your service request is confirmed.</text>
+<rect x="24" y="279" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="299" font-family="Arial" font-size="12" fill="#777">Booking ID &amp; appointment</text>
+<rect x="38" y="309" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="369" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="395.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Track request</text>
+<rect x="24" y="421" width="342" height="44" rx="8" fill="#f7f7f7" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="447.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Back to home</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1918,3876)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">25. Track Technician</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Track Technician</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Technician on the way</text>
+<rect x="24" y="124" width="342" height="242" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="249.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Map placeholder]</text>
+<rect x="24" y="374" width="342" height="102" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="394" font-family="Arial" font-size="12" fill="#777">Technician profile &amp; ETA</text>
+<rect x="38" y="404" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="502" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Service status timeline</text>
+<rect x="24" y="514" width="342" height="87" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="534" font-family="Arial" font-size="12" fill="#777">Confirmed • Assigned • En route</text>
+<rect x="38" y="544" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="609" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="635.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Contact technician</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(70,4815)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">26. Repair Status</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Repair Status</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Service progress</text>
+<rect x="24" y="124" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Status &amp; appointment</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="214" width="342" height="132" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="234" font-family="Arial" font-size="12" fill="#777">Requested → Assigned → Diagnosing → Repair → Completed</text>
+<rect x="38" y="244" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="354" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="374" font-family="Arial" font-size="12" fill="#777">Technician notes</text>
+<rect x="38" y="384" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="444" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="470.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">View quotation</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(532,4815)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">27. Quotation</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Quotation</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Review repair estimate</text>
+<rect x="24" y="124" width="342" height="82" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Diagnosis summary</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="214" width="342" height="117" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="234" font-family="Arial" font-size="12" fill="#777">Parts • Labour • Fees</text>
+<rect x="38" y="244" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="339" width="342" height="62" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="359" font-family="Arial" font-size="12" fill="#777">Total estimate</text>
+<rect x="38" y="369" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="409" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="435.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Approve quotation</text>
+<rect x="24" y="461" width="342" height="44" rx="8" fill="#f7f7f7" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="487.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Ask a question</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(994,4815)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">28. Repair Completed</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Repair Completed</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Service finished</text>
+<rect x="24" y="124" width="342" height="92" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="174.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Completion icon]</text>
+<rect x="24" y="224" width="342" height="102" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="244" font-family="Arial" font-size="12" fill="#777">Repair summary &amp; warranty</text>
+<rect x="38" y="254" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="334" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="354" font-family="Arial" font-size="12" fill="#777">Service record updated</text>
+<rect x="38" y="364" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="414" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="440.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Rate service</text>
+<rect x="24" y="466" width="342" height="44" rx="8" fill="#f7f7f7" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="492.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Return to home</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1456,4815)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">29. Buy-Back Start</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Buy-Back Start</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Sell an asset to FixBack</text>
+<rect x="24" y="124" width="342" height="77" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Choose registered asset</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="227" font-family="Arial" font-size="12" fill="#777">Or enter asset details manually</text>
+<rect x="24" y="249" width="342" height="47" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="276.5" font-family="Arial" font-size="12" fill="#999">Asset type / model</text>
+<rect x="24" y="304" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="330.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Get valuation</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1918,4815)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">30. Buy-Back Condition</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Buy-Back Condition</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Tell us about its condition</text>
+<rect x="24" y="124" width="342" height="47" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="151.5" font-family="Arial" font-size="12" fill="#999">Age &amp; condition</text>
+<rect x="24" y="179" width="342" height="37" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="199" font-family="Arial" font-size="12" fill="#777">Excellent   Good   Fair   Poor</text>
+<rect x="24" y="224" width="342" height="87" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="244" font-family="Arial" font-size="12" fill="#777">Condition details</text>
+<rect x="38" y="254" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="319" width="342" height="77" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="339" font-family="Arial" font-size="12" fill="#777">Upload photos</text>
+<rect x="38" y="349" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="404" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="430.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Submit for estimate</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(70,5754)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">31. Buy-Back Estimate</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Buy-Back Estimate</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Estimated offer</text>
+<rect x="24" y="124" width="342" height="102" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="179.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Estimated valuation]</text>
+<rect x="24" y="234" width="342" height="87" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="254" font-family="Arial" font-size="12" fill="#777">Offer breakdown</text>
+<rect x="38" y="264" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="347" font-family="Arial" font-size="12" fill="#777">Offer subject to inspection</text>
+<rect x="24" y="374" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="400.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Schedule pickup</text>
+<rect x="24" y="426" width="342" height="44" rx="8" fill="#f7f7f7" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="452.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Decline offer</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(532,5754)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">32. Pickup Scheduling</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Pickup Scheduling</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Choose collection time</text>
+<rect x="24" y="124" width="342" height="67" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Pickup address</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="199" width="342" height="167" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="286.5" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Date picker]</text>
+<rect x="24" y="374" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="394" font-family="Arial" font-size="12" fill="#777">Time slot options</text>
+<rect x="24" y="429" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="455.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Confirm pickup</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(994,5754)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">33. Marketplace</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Marketplace</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Refurbished store</text>
+<rect x="24" y="124" width="342" height="37" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="146.5" font-family="Arial" font-size="12" fill="#999">Search products</text>
+<rect x="24" y="169" width="342" height="30" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="189" font-family="Arial" font-size="12" fill="#777">Phones   Laptops   Appliances</text>
+<rect x="24" y="322" width="342" height="137" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="394.5" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Product card • Product card]</text>
+<rect x="24" y="467" width="342" height="137" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="539.5" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Product card • Product card]</text>
+<rect x="14" y="612" width="362" height="46" fill="#f4f4f4" stroke="#aaa"/>
+<text x="195" y="639.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#666">Home   Services   Assets   Shop   Profile</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1456,5754)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">34. Product Details</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Product Details</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Certified refurbished item</text>
+<rect x="24" y="124" width="342" height="172" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="214.0" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Product photo]</text>
+<text x="24" y="322" font-family="Arial" font-size="12" fill="#777">Product title • grade • price</text>
+<rect x="24" y="369" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="389" font-family="Arial" font-size="12" fill="#777">Warranty / condition details</text>
+<rect x="38" y="399" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="487" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Specifications</text>
+<rect x="24" y="499" width="342" height="87" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="519" font-family="Arial" font-size="12" fill="#777">Product specifications</text>
+<rect x="38" y="529" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="594" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="620.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Add to cart</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1918,5754)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">35. Cart</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Cart</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Your shopping cart</text>
+<rect x="24" y="124" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Cart item &amp; quantity</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="224" width="342" height="92" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="244" font-family="Arial" font-size="12" fill="#777">Cart item &amp; quantity</text>
+<rect x="38" y="254" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="342" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Order summary</text>
+<rect x="24" y="354" width="342" height="87" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="374" font-family="Arial" font-size="12" fill="#777">Subtotal • Delivery • Total</text>
+<rect x="38" y="384" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="449" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="475.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Proceed to checkout</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(70,6693)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">36. Shop Checkout</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Shop Checkout</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Delivery &amp; payment</text>
+<rect x="24" y="124" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="153.0" font-family="Arial" font-size="12" fill="#999">Delivery address</text>
+<text x="24" y="200" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Delivery option</text>
+<rect x="24" y="212" width="342" height="52" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="232" font-family="Arial" font-size="12" fill="#777">Standard delivery</text>
+<rect x="38" y="242" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<text x="24" y="290" font-family="Arial" font-size="13" font-weight="bold" fill="#555">Payment method</text>
+<rect x="24" y="302" width="342" height="52" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="322" font-family="Arial" font-size="12" fill="#777">Card / Bank / Wallet</text>
+<rect x="38" y="332" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="362" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="388.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Place order</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(532,6693)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">37. Order Tracking</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Order Tracking</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Order status</text>
+<rect x="24" y="124" width="342" height="77" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Order number &amp; ETA</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="209" width="342" height="112" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="229" font-family="Arial" font-size="12" fill="#777">Placed → Packed → Shipped → Delivered</text>
+<rect x="38" y="239" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="329" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="349" font-family="Arial" font-size="12" fill="#777">Delivery address</text>
+<rect x="38" y="359" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="409" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="435.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Contact support</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(994,6693)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">38. Notifications</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Notifications</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Updates and reminders</text>
+<rect x="24" y="124" width="342" height="67" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Repair status notification</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="199" width="342" height="67" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="219" font-family="Arial" font-size="12" fill="#777">Maintenance reminder</text>
+<rect x="38" y="229" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="274" width="342" height="67" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="294" font-family="Arial" font-size="12" fill="#777">Payment notification</text>
+<rect x="38" y="304" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="349" width="342" height="67" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="369" font-family="Arial" font-size="12" fill="#777">Promotion / offer</text>
+<rect x="38" y="379" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1456,6693)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">39. Support</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Support</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">How can we help?</text>
+<rect x="24" y="124" width="342" height="37" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="146.5" font-family="Arial" font-size="12" fill="#999">Search help articles</text>
+<rect x="24" y="169" width="342" height="57" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="189" font-family="Arial" font-size="12" fill="#777">FAQs</text>
+<rect x="38" y="199" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="234" width="342" height="57" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="254" font-family="Arial" font-size="12" fill="#777">Contact support</text>
+<rect x="38" y="264" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="299" width="342" height="57" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="319" font-family="Arial" font-size="12" fill="#777">Chat with us</text>
+<rect x="38" y="329" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="364" width="342" height="57" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="384" font-family="Arial" font-size="12" fill="#777">Report a problem</text>
+<rect x="38" y="394" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="429" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="449" font-family="Arial" font-size="12" fill="#777">Hotline / hours</text>
+<rect x="38" y="459" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="14" y="509" width="362" height="46" fill="#f4f4f4" stroke="#aaa"/>
+<text x="195" y="536.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#666">Home   Services   Assets   Shop   Profile</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(1918,6693)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">40. Profile</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Profile</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Account overview</text>
+<rect x="24" y="124" width="342" height="77" rx="7" fill="#f4f4f4" stroke="#bbb" stroke-width="1.1"/>
+<text x="195" y="166.5" text-anchor="middle" font-family="Arial" font-size="12" fill="#888">[Profile photo placeholder]</text>
+<rect x="24" y="209" width="342" height="77" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="229" font-family="Arial" font-size="12" fill="#777">Name • phone • email</text>
+<rect x="38" y="239" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="294" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="314" font-family="Arial" font-size="12" fill="#777">My addresses</text>
+<rect x="38" y="324" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="349" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="369" font-family="Arial" font-size="12" fill="#777">Payment methods</text>
+<rect x="38" y="379" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="404" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="424" font-family="Arial" font-size="12" fill="#777">Subscriptions</text>
+<rect x="38" y="434" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="459" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="479" font-family="Arial" font-size="12" fill="#777">Settings</text>
+<rect x="38" y="489" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="514" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="534" font-family="Arial" font-size="12" fill="#777">Help &amp; support</text>
+<rect x="38" y="544" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="569" width="342" height="44" rx="8" fill="#f7f7f7" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="595.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Log out</text>
+<rect x="14" y="621" width="362" height="46" fill="#f4f4f4" stroke="#aaa"/>
+<text x="195" y="648.0" text-anchor="middle" font-family="Arial" font-size="11" fill="#666">Home   Services   Assets   Shop   Profile</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(70,7632)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">41. Edit Profile</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Edit Profile</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Personal information</text>
+<rect x="24" y="124" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="153.0" font-family="Arial" font-size="12" fill="#999">Full name</text>
+<rect x="24" y="182" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="211.0" font-family="Arial" font-size="12" fill="#999">Phone number</text>
+<rect x="24" y="240" width="342" height="50" rx="6" fill="#fff" stroke="#bbb" stroke-width="1.2"/>
+<text x="38" y="269.0" font-family="Arial" font-size="12" fill="#999">Email</text>
+<rect x="24" y="298" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="324.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Save changes</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(532,7632)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">42. Addresses</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Addresses</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Saved addresses</text>
+<rect x="24" y="124" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Home address</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="204" width="342" height="72" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="224" font-family="Arial" font-size="12" fill="#777">Work address</text>
+<rect x="38" y="234" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="284" width="342" height="44" rx="8" fill="#dedede" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="310.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">+ Add address</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+<g transform="translate(994,7632)">
+<text x="0" y="-16" font-family="Arial" font-size="16" font-weight="bold" fill="#333">43. Settings</text>
+<rect x="0" y="0" width="390" height="844" rx="22" fill="#fff" stroke="#333" stroke-width="2.2"/>
+<rect x="14" y="14" width="362" height="816" rx="14" fill="none" stroke="#aaa" stroke-width="1"/>
+<text x="25" y="34" font-family="Arial" font-size="10" fill="#777">9:41</text><rect x="332" y="23" width="28" height="11" rx="2" fill="none" stroke="#777"/><rect x="336" y="26" width="18" height="5" fill="#aaa"/>
+<text x="24" y="70" font-family="Arial" font-size="21" font-weight="bold" fill="#333">Settings</text>
+<rect x="24" y="83" width="342" height="1" fill="#ddd"/>
+<text x="24" y="108" font-family="Arial" font-size="12" fill="#777">Preferences</text>
+<rect x="24" y="124" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="144" font-family="Arial" font-size="12" fill="#777">Language</text>
+<rect x="38" y="154" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="179" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="199" font-family="Arial" font-size="12" fill="#777">Notification preferences</text>
+<rect x="38" y="209" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="234" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="254" font-family="Arial" font-size="12" fill="#777">Privacy &amp; security</text>
+<rect x="38" y="264" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="289" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="309" font-family="Arial" font-size="12" fill="#777">Terms &amp; policies</text>
+<rect x="38" y="319" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="344" width="342" height="47" rx="7" fill="#fff" stroke="#bbb" stroke-width="1.1"/>
+<text x="38" y="364" font-family="Arial" font-size="12" fill="#777">About FixBack</text>
+<rect x="38" y="374" width="250" height="5" rx="2" fill="#e0e0e0"/>
+<rect x="24" y="399" width="342" height="44" rx="8" fill="#f7f7f7" stroke="#666" stroke-width="1.2"/>
+<text x="195" y="425.0" text-anchor="middle" font-family="Arial" font-size="13" fill="#555">Log out</text>
+<rect x="145" y="820" width="100" height="4" rx="2" fill="#444"/>
+</g>
+</svg>
